@@ -184,6 +184,10 @@ MonoBehaviour:
     alignWindowToBar: 1
     windowMode: 0
   _sceneHistory:
+  - name: 2048
+    path: Assets/Scenes/2048.unity
+  - name: 2048Scene
+    path: Assets/Scenes/2048Scene.unity
   - name: TemplateScene
     path: Assets/Scenes/TemplateScene.unity
   - name: SampleScene
